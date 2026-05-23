@@ -1,0 +1,6 @@
+#!/bin/bash
+# سكربت لرفع التعديلات إلى GitHub
+
+git add .
+git commit -m "تعديلات جديدة"
+git push origin main
