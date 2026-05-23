@@ -1,0 +1,13 @@
+#surahDisplay h2 {
+  font-family: 'Amiri', serif;
+  color: darkgreen;
+}
+
+#surahDisplay p {
+  font-size: 18px;
+  line-height: 1.8;
+}
+
+#surahDisplay p:nth-child(even) {
+  color: gray; /* التفسير */
+}
